@@ -25,7 +25,7 @@ const About = () => {
               Hi, I'm <span className="bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent">Dev Bikaneria</span>
             </h1>
             <h2 className="text-2xl md:text-3xl text-cyan-400 mb-6">Software Developer</h2>
-            <p className="text-xl text-gray-300 mb-2">React / Frontend Developer</p>
+            {/* <p className="text-xl text-gray-300 mb-2">React / Frontend Developer</p> */}
             <p className="text-gray-400 text-lg leading-relaxed mb-8">
               Aspiring to establish myself as a dynamic and successful professional in the field of computer science. 
               Passionate about building impactful web applications, enhancing user experience, and leveraging modern 
@@ -45,7 +45,7 @@ const About = () => {
           <div className="order-1 md:order-2 flex justify-center">
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-r from-cyan-500 to-blue-600 rounded-full blur-2xl opacity-30 animate-pulse"></div>
-              <img src="https://media.licdn.com/dms/image/v2/D4D03AQGXcKINXkjygA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1709632703186?e=1762387200&v=beta&t=rSRowQyK0fMEra1_pp01CWevQpHJzrPvj_stZD62X0k" alt="Dev Bikaneria" className="relative rounded-full w-64 h-64 md:w-80 md:h-80 object-cover border-4 border-cyan-500 shadow-2xl" />
+              <img src="/photo.svg" alt="Dev Bikaneria" className="relative rounded-full w-64 h-64 md:w-80 md:h-80 object-cover border-4 border-cyan-500 shadow-2xl" />
             </div>
           </div>
         </div>
