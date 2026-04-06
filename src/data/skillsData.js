@@ -6,7 +6,7 @@ export const skillsData = [
       { name: "CSS", level: 85 },
       { name: "JavaScript", level: 88 },
       { name: "React", level: 90 },
-      { name: "RESTful APIs", level: 85 }
+      { name: "RESTful APIs", level: 90 }
     ]
   },
   {
